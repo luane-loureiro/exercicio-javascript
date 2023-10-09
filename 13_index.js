@@ -1,0 +1,1 @@
+console.log('exemplo de integração do javaScript')
